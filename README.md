@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytic and Visualization
 - 🌱 I’m currently learning Data Processing and Modifying
 - 💞️ I’m looking to collaborate on Data Analytic and BI
-- 📫 How to reach me Haryo00@gmail.com
+- 📫 How to reach me Haryowaskito4@gmail.com
 
 <!---
 haryo004/haryo004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
